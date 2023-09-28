@@ -30,7 +30,7 @@ const description = "CSE Final Year student studying at SASTRA University.";
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Web Designer",
+  "Web Developer",
   "Student",
   "Aspiring DevOps Engineer",
   "Linux",
