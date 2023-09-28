@@ -16,9 +16,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a image you
  * freely use on your site.
  */
-import image from "../images/motion-background.jpg";
+import image from "../images/5.jpeg";
 
-const imageAltText = "purple and blue abstract background";
+const imageAltText = "Houtaro Oreki";
 
 /**
  * Sort description that expands on your title on the Home component.
@@ -31,12 +31,12 @@ const description =
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Web design",
-  "User experience",
-  "Inclusive design",
-  "Focus group testing",
-  "Mobile user interfaces",
-  "Graphic design",
+  "Web Designer",
+  "Student",
+  "Aspiring DevOps Engineer",
+  "Linux",
+  "Script Programming",
+  "Tech Enthusiast",
 ];
 
 /**
