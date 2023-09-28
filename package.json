@@ -1,7 +1,7 @@
 {
-  "name": "santosh-portfolio",
+  "name": "educator-js-codespace-template",
   "version": "1.0.0",
-  "description": "Santosh's Portfolio",
+  "description": "Educator JS Codespace Template",
   "source": "src/index.html",
   "homepage": "https://github.com/microsoft/codespaces-teaching-template-js#readme",
   "scripts": {
