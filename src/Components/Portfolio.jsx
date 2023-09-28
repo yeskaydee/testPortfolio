@@ -31,9 +31,9 @@ const imageAltText = "cool right?";
  */
 const projectList = [
   {
-    title: "Will tell you soon",
-    description: "sorry, this is yet to be hosted",
-    url: "yet to host",
+    title: "Updated soon",
+    description: "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    url: "URL",
   },
 ];
 
